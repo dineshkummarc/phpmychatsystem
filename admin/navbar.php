@@ -1,7 +1,7 @@
 <nav class="navbar navbar-default">
     <div class="container-fluid">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="https://code-projects.org/">Simple Chat System</a>
+			<a class="navbar-brand">Simple Chat System</a>
 		</div>
 
 		<ul class="nav navbar-nav">
